@@ -1,0 +1,2 @@
+# yangiFayl
+Ochiq project
